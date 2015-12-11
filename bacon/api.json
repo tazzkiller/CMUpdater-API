@@ -2,16 +2,6 @@
  "id": null,
  "result": [
     {
-    "url": "http://dev.av-prod.com/cyanogen/update/cm-12.1-20151128-UNOFFICIAL-Sultan-bacon.zip",
-    "timestamp": "1448678329",
-    "api_level": "22",
-    "md5sum": "531c63c785653e443db0820d2ec59780",
-    "filename": "cm-12.1-20151128-UNOFFICIAL-Sultan-bacon.zip",
-    "channel": "UNOFFICIAL",
-    "changes": "",
-    "incremental": ""
-    },
-    {
     "url": "http://dev.av-prod.com/cyanogen/update/cm-12.1-20151202-UNOFFICIAL-Sultan-bacon.zip",
     "timestamp": "1449015506",
     "api_level": "22",
@@ -27,6 +17,16 @@
     "api_level": "22",
     "md5sum": "3fea61baf7558ed2734c7b7cd4a18120",
     "filename": "cm-12.1-20151209-UNOFFICIAL-Sultan-bacon.zip",
+    "channel": "UNOFFICIAL",
+    "changes": "",
+    "incremental": ""
+    },
+    {
+    "url": "http://dev.av-prod.com/cyanogen/update/cm-12.1-20151211-UNOFFICIAL-Sultan-bacon.zip",
+    "timestamp": "1449842275",
+    "api_level": "22",
+    "md5sum": "3c581e2ac1c906b0cea9b79041259579",
+    "filename": "cm-12.1-20151211-UNOFFICIAL-Sultan-bacon.zip",
     "channel": "UNOFFICIAL",
     "changes": "",
     "incremental": ""
